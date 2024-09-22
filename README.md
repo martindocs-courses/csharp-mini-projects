@@ -12,9 +12,11 @@ The repository is organized into the following top-level folders:
 - **2_DesktopApps**: Projects involving desktop applications using frameworks like Windows Forms and WPF.
 - **3_WebApps**: Web development projects using ASP.NET Core, including MVC and API-based applications.
 - **4_MobileApps**: Cross-platform mobile applications built using Xamarin or .NET MAUI.
-- **4_Games**: Game development projects using Unity and C# scripting.
-- **5_Libraries**: Custom libraries or reusable components, such as helper utilities or service classes.
-- **6_DataAccess**: Projects demonstrating database interactions using Entity Framework, LINQ, and SQL Server.
+- **5_Games**: Game development projects using Unity and C# scripting.
+- **6_Libraries**: Custom libraries or reusable components, such as helper utilities or service classes.
+- **7_DataAccess**: Projects demonstrating database interactions using Entity Framework, LINQ, and SQL Server.
+- **8_APIIntegration**: Integrating external APIs, like weather apps or currency converters, for data fetching and display.
+- **9_FileHandling**: Tools for file manipulation, such as organizers or log analyzers, focusing on file I/O and data parsing.
 
 ## Projects
 
@@ -22,9 +24,12 @@ Comming soon!!
 <!-- ### Console Apps -->
 <!-- ### Desktop Apps -->
 <!-- ### Web Apps -->
+<!-- ### Mobile Apps -->
 <!-- ### Games -->
 <!-- ### Libraries -->
 <!-- ### Data Access -->
+<!-- ### API Integration -->
+<!-- ### File Handling -->
 
 ## Prerequisites
 
